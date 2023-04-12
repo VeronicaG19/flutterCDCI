@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Github Actions'),
+      home: MyHomePage(title: 'Github Actions in gitlab local'),
     );
   }
 }
